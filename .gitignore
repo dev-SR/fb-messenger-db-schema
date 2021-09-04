@@ -1,0 +1,4 @@
+*.mwb.bak
+.bak
+
+.DS_Store
